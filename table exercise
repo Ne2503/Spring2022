@@ -1,0 +1,26 @@
+<table class="table table-striped">
+            <thead>
+              <tr>
+                <th>MTH 161</th>
+                <th>Spring 2022</th>
+                <th>Pre-Calculus</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>ITD 212</td>
+                <td>Spring 2017</td>
+                <td>Interactive Web</td>
+              </tr>
+              <tr>
+                <td>ITP 100</td>
+                <td>Spring 2017</td>
+                <td>Software Design</td>
+              </tr>
+              <tr>
+                <td>ITP 226</td>
+                <td>Spring 2017</td>
+                <td>Mobile Development</td>
+              </tr>
+            </tbody>
+          </table>
